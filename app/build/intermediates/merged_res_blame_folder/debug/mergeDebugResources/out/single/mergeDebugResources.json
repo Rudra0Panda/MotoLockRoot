@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.depthwall.clocktransparency.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.depthwall.clocktransparency.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_ic_chevron_right.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_miuix_card_bg.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/miuix_card_bg.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_ic_refresh.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/xml_root_preferences.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/xml/root_preferences.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_ic_restart_systemui.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/ic_restart_systemui.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_miuix_pill_bg.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/miuix_pill_bg.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_miuix_status_dot.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/miuix_status_dot.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/drawable_miuix_item_ripple.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/drawable/miuix_item_ripple.xml"
+    },
+    {
+        "merged": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "/home/rudra/.gradle/daemon/8.11.1/com.depthwall.clocktransparency.app-main-42:/layout/activity_main.xml"
+    }
+]

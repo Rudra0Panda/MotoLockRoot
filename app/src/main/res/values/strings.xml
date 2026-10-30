@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lockscreen Clock Transparency</string>
+    <string name="pref_title_clock_opacity">Clock Opacity</string>
+    <string name="pref_summary_clock_opacity">Adjust the opacity/transparency of the lockscreen clock</string>
+    <string name="pref_title_date_opacity">Date &amp; Details Opacity</string>
+    <string name="pref_summary_date_opacity">Apply transparency to date and extra lockscreen text</string>
+    <string name="pref_title_enable">Enable Hook</string>
+    <string name="pref_summary_enable">Enable custom lockscreen clock modifications</string>
+
+    <!-- Custom Font Settings -->
+    <string name="pref_category_custom_font">Custom Clock Font</string>
+    <string name="pref_title_custom_font_enable">Enable Custom Font</string>
+    <string name="pref_summary_custom_font_enable">Override lockscreen clock with a custom font file (.ttf / .otf)</string>
+    <string name="pref_title_select_font">Select Font File</string>
+    <string name="pref_summary_select_font_default">Tap to choose a .ttf or .otf font</string>
+    <string name="pref_title_font_apply_date">Apply Font to Date</string>
+    <string name="pref_summary_font_apply_date">Also apply font to date (ensure font supports letters)</string>
+    <string name="pref_title_reset_font">Reset to Default Font</string>
+    <string name="pref_summary_reset_font">Remove custom font and restore default font</string>
+    <string name="toast_font_saved">Custom font \'%1$s\' applied successfully!</string>
+    <string name="toast_font_invalid">Failed to load font file. Please ensure it is a valid .ttf or .otf font.</string>
+    <string name="toast_font_reset">Custom font reset to default.</string>
+</resources>

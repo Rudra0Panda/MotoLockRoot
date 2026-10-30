@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.12.0] /home/rudra/.gradle/caches/8.11.1/transforms/a7c2e2496e6bb822c8a85c65229e447f/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/rudra/.gradle/caches/8.11.1/transforms/58d5c67ce028eec3cb6e715b1e8ebdb2/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rudra/.gradle/caches/8.11.1/transforms/5f46a59d464e8a20acf497ff9ca3a5df/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.preference:preference-ktx:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/ac85e495f750101c7cfefd16659fa28d/transformed/preference-ktx-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/51e3fa5462c79e5c92384ddbe98f2aaa/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/rudra/.gradle/caches/8.11.1/transforms/9b414e5025b362aed5b63531e27f2b46/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/064d5d4ee85897e060dfc9af2c531595/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/39cee7e59ee52e36990490f6c07e0100/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/rudra/.gradle/caches/8.11.1/transforms/0896f4082ab50e61a694e20af912f5dc/transformed/fragment-ktx-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/rudra/.gradle/caches/8.11.1/transforms/b15d0f8aa81479638ee2c7416db8632e/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/rudra/.gradle/caches/8.11.1/transforms/0c4ed72e531c64cdacaf29d987e6841c/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] /home/rudra/.gradle/caches/8.11.1/transforms/bf367f5792ab6482681f262b246bf4fc/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/97d0e6ab46b8a805cde14730fae34c65/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/a3e790dc5c272abb95b194e20036ee68/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/rudra/.gradle/caches/8.11.1/transforms/095ffdedd0ac5d43292422b050ac8b3f/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/rudra/.gradle/caches/8.11.1/transforms/ed2aa30e29d6ff3bb8090b60807d48fa/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/2315429f5fd4406ca405f284a52278ff/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/c2299436319826fc0730e8c52db91bf0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/a5c2601266432549a0bb50fedd6b2241/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/454a9ec4edf5e42f03b8cfa3ab97b86c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/bfa0a1f00eb40aceceb1446ac28e62ff/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/d2e0967248066338c12dcaab1a873a92/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/572662e5ad0a94cfeee48d32abade0ad/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/5f928fc6c3b00768a7a242f33c90f6cf/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/04de0b9207b11f18bcea2122d51aaa8a/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/4e92c5a5fbcdcbf2eb4c14aa54f940fd/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/cc35415457a751fd7094ec740c520cea/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/c451079ca1d8a5536e4603ac21932fae/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/c6cd3ccf63bd9ac6320b0a5eb04046f6/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/e304602a1d5268096eb48ab78247d062/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/276e5a3f3ac8fe423b75efe24d915e6b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/5263980403258e94b8e74f5bcef12323/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/6f6b2c63141f5862c1d6e7056781c453/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/8454d4d620e808796c0b155e73fa25c1/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/36ddd1b261cfd6e5f321f08dada24325/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/rudra/.gradle/caches/8.11.1/transforms/b6dd32160ba3e633dfeeafcd57fc063c/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/3bd0efe8ac78948441f40be23963d443/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/15c7aa8359817960eba6db7ca0d45feb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/0b38e3794f6e03f84941bd3ac7157551/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/1b7a1c0c2c9a20f1da2d893b6f133c27/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/rudra/.gradle/caches/8.11.1/transforms/939514c3adca954ea13f212611b4bee6/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/99afbcd9b21486995f44917b2e11a3f1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/0d75c30bce8a19727f2027cb5247e4d6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/120c7d697b797999b398f1d0b6e1d6e0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:4:5-39:19
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:4:5-39:19
+MERGED from [com.google.android.material:material:1.12.0] /home/rudra/.gradle/caches/8.11.1/transforms/a7c2e2496e6bb822c8a85c65229e447f/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/rudra/.gradle/caches/8.11.1/transforms/a7c2e2496e6bb822c8a85c65229e447f/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rudra/.gradle/caches/8.11.1/transforms/5f46a59d464e8a20acf497ff9ca3a5df/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rudra/.gradle/caches/8.11.1/transforms/5f46a59d464e8a20acf497ff9ca3a5df/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:6:9-58
+	android:allowBackup
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:9:9-46
+meta-data#xposedmodule
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:12:13-40
+meta-data#xposeddescription
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:14:9-16:107
+	android:value
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:16:13-104
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:15:13-45
+meta-data#xposedminversion
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:17:9-19:34
+	android:value
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:19:13-31
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:18:13-44
+meta-data#xposedscope
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:20:9-22:54
+	android:resource
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:22:13-51
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:21:13-39
+activity#com.depthwall.clocktransparency.MainActivity
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:24:9-31:20
+	android:exported
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:29:27-74
+provider#com.depthwall.clocktransparency.PreferencesProvider
+ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:33:9-37:50
+	android:grantUriPermissions
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:37:13-47
+	android:authorities
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:35:13-75
+	android:exported
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:34:13-48
+uses-sdk
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /home/rudra/.gradle/caches/8.11.1/transforms/a7c2e2496e6bb822c8a85c65229e447f/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/rudra/.gradle/caches/8.11.1/transforms/a7c2e2496e6bb822c8a85c65229e447f/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/rudra/.gradle/caches/8.11.1/transforms/58d5c67ce028eec3cb6e715b1e8ebdb2/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/rudra/.gradle/caches/8.11.1/transforms/58d5c67ce028eec3cb6e715b1e8ebdb2/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rudra/.gradle/caches/8.11.1/transforms/5f46a59d464e8a20acf497ff9ca3a5df/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/rudra/.gradle/caches/8.11.1/transforms/5f46a59d464e8a20acf497ff9ca3a5df/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/ac85e495f750101c7cfefd16659fa28d/transformed/preference-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/ac85e495f750101c7cfefd16659fa28d/transformed/preference-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/51e3fa5462c79e5c92384ddbe98f2aaa/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/51e3fa5462c79e5c92384ddbe98f2aaa/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/rudra/.gradle/caches/8.11.1/transforms/9b414e5025b362aed5b63531e27f2b46/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/rudra/.gradle/caches/8.11.1/transforms/9b414e5025b362aed5b63531e27f2b46/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/064d5d4ee85897e060dfc9af2c531595/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/064d5d4ee85897e060dfc9af2c531595/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/39cee7e59ee52e36990490f6c07e0100/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/39cee7e59ee52e36990490f6c07e0100/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/rudra/.gradle/caches/8.11.1/transforms/0896f4082ab50e61a694e20af912f5dc/transformed/fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/rudra/.gradle/caches/8.11.1/transforms/0896f4082ab50e61a694e20af912f5dc/transformed/fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/rudra/.gradle/caches/8.11.1/transforms/b15d0f8aa81479638ee2c7416db8632e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/rudra/.gradle/caches/8.11.1/transforms/b15d0f8aa81479638ee2c7416db8632e/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/rudra/.gradle/caches/8.11.1/transforms/0c4ed72e531c64cdacaf29d987e6841c/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/rudra/.gradle/caches/8.11.1/transforms/0c4ed72e531c64cdacaf29d987e6841c/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/rudra/.gradle/caches/8.11.1/transforms/bf367f5792ab6482681f262b246bf4fc/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/rudra/.gradle/caches/8.11.1/transforms/bf367f5792ab6482681f262b246bf4fc/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/97d0e6ab46b8a805cde14730fae34c65/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/97d0e6ab46b8a805cde14730fae34c65/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/a3e790dc5c272abb95b194e20036ee68/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/a3e790dc5c272abb95b194e20036ee68/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/rudra/.gradle/caches/8.11.1/transforms/095ffdedd0ac5d43292422b050ac8b3f/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/rudra/.gradle/caches/8.11.1/transforms/095ffdedd0ac5d43292422b050ac8b3f/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/rudra/.gradle/caches/8.11.1/transforms/ed2aa30e29d6ff3bb8090b60807d48fa/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/rudra/.gradle/caches/8.11.1/transforms/ed2aa30e29d6ff3bb8090b60807d48fa/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/2315429f5fd4406ca405f284a52278ff/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/2315429f5fd4406ca405f284a52278ff/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/c2299436319826fc0730e8c52db91bf0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/c2299436319826fc0730e8c52db91bf0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/a5c2601266432549a0bb50fedd6b2241/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/a5c2601266432549a0bb50fedd6b2241/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/454a9ec4edf5e42f03b8cfa3ab97b86c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/454a9ec4edf5e42f03b8cfa3ab97b86c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/bfa0a1f00eb40aceceb1446ac28e62ff/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/bfa0a1f00eb40aceceb1446ac28e62ff/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/d2e0967248066338c12dcaab1a873a92/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/d2e0967248066338c12dcaab1a873a92/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/572662e5ad0a94cfeee48d32abade0ad/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/572662e5ad0a94cfeee48d32abade0ad/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/5f928fc6c3b00768a7a242f33c90f6cf/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/rudra/.gradle/caches/8.11.1/transforms/5f928fc6c3b00768a7a242f33c90f6cf/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/04de0b9207b11f18bcea2122d51aaa8a/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/04de0b9207b11f18bcea2122d51aaa8a/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/4e92c5a5fbcdcbf2eb4c14aa54f940fd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/rudra/.gradle/caches/8.11.1/transforms/4e92c5a5fbcdcbf2eb4c14aa54f940fd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/cc35415457a751fd7094ec740c520cea/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/cc35415457a751fd7094ec740c520cea/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/c451079ca1d8a5536e4603ac21932fae/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/c451079ca1d8a5536e4603ac21932fae/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/c6cd3ccf63bd9ac6320b0a5eb04046f6/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/c6cd3ccf63bd9ac6320b0a5eb04046f6/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/e304602a1d5268096eb48ab78247d062/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/e304602a1d5268096eb48ab78247d062/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/276e5a3f3ac8fe423b75efe24d915e6b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/276e5a3f3ac8fe423b75efe24d915e6b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/5263980403258e94b8e74f5bcef12323/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/5263980403258e94b8e74f5bcef12323/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/6f6b2c63141f5862c1d6e7056781c453/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/6f6b2c63141f5862c1d6e7056781c453/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/8454d4d620e808796c0b155e73fa25c1/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/8454d4d620e808796c0b155e73fa25c1/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/36ddd1b261cfd6e5f321f08dada24325/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/36ddd1b261cfd6e5f321f08dada24325/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/rudra/.gradle/caches/8.11.1/transforms/b6dd32160ba3e633dfeeafcd57fc063c/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/rudra/.gradle/caches/8.11.1/transforms/b6dd32160ba3e633dfeeafcd57fc063c/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/3bd0efe8ac78948441f40be23963d443/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/3bd0efe8ac78948441f40be23963d443/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/15c7aa8359817960eba6db7ca0d45feb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/15c7aa8359817960eba6db7ca0d45feb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/0b38e3794f6e03f84941bd3ac7157551/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/0b38e3794f6e03f84941bd3ac7157551/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/1b7a1c0c2c9a20f1da2d893b6f133c27/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/1b7a1c0c2c9a20f1da2d893b6f133c27/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/rudra/.gradle/caches/8.11.1/transforms/939514c3adca954ea13f212611b4bee6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/rudra/.gradle/caches/8.11.1/transforms/939514c3adca954ea13f212611b4bee6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/99afbcd9b21486995f44917b2e11a3f1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/99afbcd9b21486995f44917b2e11a3f1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/0d75c30bce8a19727f2027cb5247e4d6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/0d75c30bce8a19727f2027cb5247e4d6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/120c7d697b797999b398f1d0b6e1d6e0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/120c7d697b797999b398f1d0b6e1d6e0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/rudra/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.depthwall.clocktransparency.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.depthwall.clocktransparency.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

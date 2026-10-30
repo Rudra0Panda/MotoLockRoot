@@ -1,0 +1,171 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.depthwall.clocktransparency"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="35" />
+10
+11    <permission
+11-->[androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+12        android:name="com.depthwall.clocktransparency.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.depthwall.clocktransparency.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:4:5-39:19
+18        android:allowBackup="true"
+18-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:5:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.13.1] /home/rudra/.gradle/caches/8.11.1/transforms/eae5decc65a5a5cbbe18adf662a3d4df/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@android:drawable/sym_def_app_icon"
+22-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:6:9-58
+23        android:label="@string/app_name"
+23-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:7:9-41
+24        android:supportsRtl="true"
+24-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:8:9-35
+25        android:theme="@style/Theme.MiuixApp" >
+25-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:9:9-46
+26        <meta-data
+26-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:11:9-13:36
+27            android:name="xposedmodule"
+27-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:12:13-40
+28            android:value="true" />
+28-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:13:13-33
+29        <meta-data
+29-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:14:9-16:107
+30            android:name="xposeddescription"
+30-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:15:13-45
+31            android:value="Adjust lockscreen clock transparency (Motorola Depth Effect &amp; SystemUI)" />
+31-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:16:13-104
+32        <meta-data
+32-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:17:9-19:34
+33            android:name="xposedminversion"
+33-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:18:13-44
+34            android:value="93" />
+34-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:19:13-31
+35        <meta-data
+35-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:20:9-22:54
+36            android:name="xposedscope"
+36-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:21:13-39
+37            android:resource="@array/xposed_scope" />
+37-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:22:13-51
+38
+39        <activity
+39-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:24:9-31:20
+40            android:name="com.depthwall.clocktransparency.MainActivity"
+40-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:25:13-41
+41            android:exported="true" >
+41-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:26:13-36
+42            <intent-filter>
+42-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:27:13-30:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:28:17-69
+43-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:28:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:29:17-77
+45-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:29:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <provider
+49-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:33:9-37:50
+50            android:name="com.depthwall.clocktransparency.PreferencesProvider"
+50-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:34:13-48
+51            android:authorities="com.depthwall.clocktransparency.provider"
+51-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:35:13-75
+52            android:exported="true"
+52-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:36:13-36
+53            android:grantUriPermissions="true" />
+53-->/home/rudra/Projects/DEPTHWALL/lsposed_clock_transparency/app/src/main/AndroidManifest.xml:37:13-47
+54        <provider
+54-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+56            android:authorities="com.depthwall.clocktransparency.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.3.0] /home/rudra/.gradle/caches/8.11.1/transforms/df760dc0b75c18a1769c896f98e110f1/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/rudra/.gradle/caches/8.11.1/transforms/f3d439c6ba970fc82b99dfaf795d4399/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+64            <meta-data
+64-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+65-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+66                android:value="androidx.startup" />
+66-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+67        </provider>
+68
+69        <uses-library
+69-->[androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+70            android:name="androidx.window.extensions"
+70-->[androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+71            android:required="false" />
+71-->[androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+72        <uses-library
+72-->[androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+73            android:name="androidx.window.sidecar"
+73-->[androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+74            android:required="false" />
+74-->[androidx.window:window:1.0.0] /home/rudra/.gradle/caches/8.11.1/transforms/6b0a6e087b6b6e00820d1a58b4954675/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+75
+76        <receiver
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+78            android:directBootAware="false"
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+79            android:enabled="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+80            android:exported="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+81            android:permission="android.permission.DUMP" >
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] /home/rudra/.gradle/caches/8.11.1/transforms/f11852ee20d7a4c4cba9c05d41dc84e6/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+93            </intent-filter>
+94        </receiver>
+95    </application>
+96
+97</manifest>

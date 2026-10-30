@@ -1,0 +1,56 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="General">
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="pref_enabled"
+            android:summary="@string/pref_summary_enable"
+            android:title="@string/pref_title_enable" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Transparency Settings">
+        <SeekBarPreference
+            android:defaultValue="50"
+            android:key="pref_clock_opacity"
+            android:max="100"
+            app:min="0"
+            app:showSeekBarValue="true"
+            android:summary="@string/pref_summary_clock_opacity"
+            android:title="@string/pref_title_clock_opacity" />
+
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="pref_include_date"
+            android:summary="@string/pref_summary_date_opacity"
+            android:title="@string/pref_title_date_opacity" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/pref_category_custom_font">
+        <SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="pref_enable_custom_font"
+            android:summary="@string/pref_summary_custom_font_enable"
+            android:title="@string/pref_title_custom_font_enable" />
+
+        <Preference
+            android:key="pref_select_custom_font"
+            android:summary="@string/pref_summary_select_font_default"
+            android:title="@string/pref_title_select_font"
+            app:dependency="pref_enable_custom_font" />
+
+        <SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="pref_font_apply_to_date"
+            android:summary="@string/pref_summary_font_apply_date"
+            android:title="@string/pref_title_font_apply_date"
+            app:dependency="pref_enable_custom_font" />
+
+        <Preference
+            android:key="pref_reset_custom_font"
+            android:summary="@string/pref_summary_reset_font"
+            android:title="@string/pref_title_reset_font"
+            app:dependency="pref_enable_custom_font" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

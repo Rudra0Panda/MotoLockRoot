@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MiuixApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/miuix_bg</item>
+        <item name="android:navigationBarColor">@color/miuix_bg</item>
+        <item name="android:windowBackground">@color/miuix_bg</item>
+        <item name="colorPrimary">@color/miuix_accent</item>
+        <item name="colorSecondary">@color/miuix_accent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="xposed_scope">
+        <item>com.android.systemui</item>
+        <item>com.motorola.deptheffect</item>
+        <item>com.motorola.personalize</item>
+    </string-array>
+    <color name="miuix_accent">#0A84FF</color>
+    <color name="miuix_bg">#0C0C0E</color>
+    <color name="miuix_card_bg">#1C1C1E</color>
+    <color name="miuix_card_pressed">#28282B</color>
+    <color name="miuix_divider">#262629</color>
+    <color name="miuix_green">#34C759</color>
+    <color name="miuix_pill_bg">#2C2C2E</color>
+    <color name="miuix_red">#FF453A</color>
+    <color name="miuix_text_primary">#FFFFFF</color>
+    <color name="miuix_text_secondary">#8E8E93</color>
+    <color name="miuix_text_tertiary">#636366</color>
+    <string name="app_name">Lockscreen Clock Transparency</string>
+    <string name="pref_category_custom_font">Custom Clock Font</string>
+    <string name="pref_summary_clock_opacity">Adjust the opacity/transparency of the lockscreen clock</string>
+    <string name="pref_summary_custom_font_enable">Override lockscreen clock with a custom font file (.ttf / .otf)</string>
+    <string name="pref_summary_date_opacity">Apply transparency to date and extra lockscreen text</string>
+    <string name="pref_summary_enable">Enable custom lockscreen clock modifications</string>
+    <string name="pref_summary_font_apply_date">Also apply font to date (ensure font supports letters)</string>
+    <string name="pref_summary_reset_font">Remove custom font and restore default font</string>
+    <string name="pref_summary_select_font_default">Tap to choose a .ttf or .otf font</string>
+    <string name="pref_title_clock_opacity">Clock Opacity</string>
+    <string name="pref_title_custom_font_enable">Enable Custom Font</string>
+    <string name="pref_title_date_opacity">Date &amp; Details Opacity</string>
+    <string name="pref_title_enable">Enable Hook</string>
+    <string name="pref_title_font_apply_date">Apply Font to Date</string>
+    <string name="pref_title_reset_font">Reset to Default Font</string>
+    <string name="pref_title_select_font">Select Font File</string>
+    <string name="toast_font_invalid">Failed to load font file. Please ensure it is a valid .ttf or .otf font.</string>
+    <string name="toast_font_reset">Custom font reset to default.</string>
+    <string name="toast_font_saved">Custom font \'%1$s\' applied successfully!</string>
+    <style name="Theme.MiuixApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/miuix_bg</item>
+        <item name="android:navigationBarColor">@color/miuix_bg</item>
+        <item name="android:windowBackground">@color/miuix_bg</item>
+        <item name="colorPrimary">@color/miuix_accent</item>
+        <item name="colorSecondary">@color/miuix_accent</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+</resources>
